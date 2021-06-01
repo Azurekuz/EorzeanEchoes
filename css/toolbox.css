@@ -1,0 +1,23 @@
+.nonselectable{
+    -webkit-user-select: none;    
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.curve-upper{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.curve-lower{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.curve-box{
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
